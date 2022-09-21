@@ -1,0 +1,16 @@
+{
+  "name": "ableton-torch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "midi": "^2.0.0",
+    "webmidi": "^3.0.21"
+  }
+}
